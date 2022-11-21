@@ -1,7 +1,7 @@
 ﻿using System;
 using ClockAngle.Model;
 
-namespace ClockAngle
+namespace ClockAngle.ClockAngleTask
 {
     internal class Program
     {

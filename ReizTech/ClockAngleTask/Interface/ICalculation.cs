@@ -1,4 +1,4 @@
-﻿namespace ClockAngle.Interface
+﻿namespace ClockAngle.ClockAngleTask.Interface
 {
     public interface ICalculation
     {
