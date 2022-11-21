@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClockAngle", "ReizTech\ClockAngle.csproj", "{3B664BF4-AD26-4EB9-A2A1-07C910BBB9F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClockAngle.Tests", "ClockAngle.Tests\ClockAngle.Tests.csproj", "{14D0E075-C3B5-4EC9-ADD5-D995F23602DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clock Angle Task", "Clock Angle Task", "{56693151-8B65-469C-9AFB-C0EA7AB14D3E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hierarchical structure", "Hierarchical structure", "{5476569E-5550-4061-A860-1EA4CAC8F5F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hierarchical structure", "Hierarchial structure\Hierarchical structure.csproj", "{6B0DE5A9-27BA-46B9-AA71-DC911BD99F52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HierarchicalStructure.Tests", "HierarchicalStructure.Tests\HierarchicalStructure.Tests.csproj", "{7E4CDC64-EF43-4189-96AC-8D409337CAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B664BF4-AD26-4EB9-A2A1-07C910BBB9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B664BF4-AD26-4EB9-A2A1-07C910BBB9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B664BF4-AD26-4EB9-A2A1-07C910BBB9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B664BF4-AD26-4EB9-A2A1-07C910BBB9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D0E075-C3B5-4EC9-ADD5-D995F23602DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D0E075-C3B5-4EC9-ADD5-D995F23602DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D0E075-C3B5-4EC9-ADD5-D995F23602DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D0E075-C3B5-4EC9-ADD5-D995F23602DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B0DE5A9-27BA-46B9-AA71-DC911BD99F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0DE5A9-27BA-46B9-AA71-DC911BD99F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0DE5A9-27BA-46B9-AA71-DC911BD99F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0DE5A9-27BA-46B9-AA71-DC911BD99F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4CDC64-EF43-4189-96AC-8D409337CAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4CDC64-EF43-4189-96AC-8D409337CAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4CDC64-EF43-4189-96AC-8D409337CAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4CDC64-EF43-4189-96AC-8D409337CAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3B664BF4-AD26-4EB9-A2A1-07C910BBB9F9} = {56693151-8B65-469C-9AFB-C0EA7AB14D3E}
+		{14D0E075-C3B5-4EC9-ADD5-D995F23602DF} = {56693151-8B65-469C-9AFB-C0EA7AB14D3E}
+		{6B0DE5A9-27BA-46B9-AA71-DC911BD99F52} = {5476569E-5550-4061-A860-1EA4CAC8F5F3}
+		{7E4CDC64-EF43-4189-96AC-8D409337CAAC} = {5476569E-5550-4061-A860-1EA4CAC8F5F3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BD771AE-B7AE-48F0-A4A1-413C0787110E}
+	EndGlobalSection
+EndGlobal
