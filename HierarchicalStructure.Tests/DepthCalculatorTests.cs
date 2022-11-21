@@ -1,8 +1,8 @@
 ﻿using FluentAssertions;
-using Hierarchial_structure.Model;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
+using Hierarchial_structure.Model;
 
 namespace HierarchicalStructure.Tests
 {
