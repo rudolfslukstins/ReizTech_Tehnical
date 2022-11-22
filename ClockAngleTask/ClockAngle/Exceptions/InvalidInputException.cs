@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ClockAngle.ClockAngleTask.Exceptions
+namespace ClockAngle.Exceptions
 {
     public class InvalidInputException : Exception
     {

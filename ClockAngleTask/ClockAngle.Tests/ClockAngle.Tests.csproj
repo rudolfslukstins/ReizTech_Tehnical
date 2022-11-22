@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ClockAngle\ClockAngle.csproj" />
     <ProjectReference Include="..\ReizTech\ClockAngle.csproj" />
   </ItemGroup>
 

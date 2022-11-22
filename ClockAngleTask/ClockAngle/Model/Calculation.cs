@@ -2,7 +2,7 @@
 using ClockAngle.Exceptions;
 using ClockAngle.Interface;
 
-namespace ClockAngle.ClockAngleTask.Model
+namespace ClockAngle.Model
 {
     public class Calculation : ICalculation
     {

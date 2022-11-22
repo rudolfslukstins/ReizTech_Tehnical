@@ -1,6 +1,6 @@
 ﻿using System;
-using ClockAngle.ClockAngleTask.Exceptions;
-using ClockAngle.ClockAngleTask.Interface;
+using ClockAngle.Exceptions;
+using ClockAngle.Interface;
 using ClockAngle.Model;
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
